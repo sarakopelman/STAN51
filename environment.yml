@@ -1,12 +1,14 @@
 name: STAN51
 channels:
-  - defaults
+  - conda-forge
 dependencies:
-  - matplotlib
-  - pandas
   - python=3.11
+  - jupyterlab
   - ipykernel
   - numpy
+  - pandas
+  - matplotlib
   - scikit-learn
-  - jupyterlab
-prefix: C:\Users\Sara\anaconda3\envs\STAN51
+  - pip
+  - pip:
+      - ISLP
