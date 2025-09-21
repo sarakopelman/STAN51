@@ -10,4 +10,5 @@ dependencies:
   - jupyterlab
   - pandas
   - pip
+  - pyreadr
 prefix: C:\Users\Sara\anaconda3\envs\STAN51
