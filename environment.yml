@@ -1,5 +1,6 @@
 name: STAN51
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - matplotlib
